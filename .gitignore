@@ -1,0 +1,8 @@
+results/
+figures/
+output/
+backup/
+*.pdf
+.Rhistory
+.RData
+.Rproj.user/
